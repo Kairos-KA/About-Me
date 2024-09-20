@@ -1,0 +1,119 @@
+html {
+  background-color: black;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("Images/Project_SEKAI_COLORFUL_LIVE_1st_Link_Blu-ray_Cover.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  padding: 30px;
+  margin: 50px auto;
+  width: 770px;
+  color: aliceblue;
+  border: 2px solid #11fff3;
+  border-radius: 4px;
+  box-shadow: 0px 0px 50px #11fff3;
+  background-color: rgba(0, 0, 0, 0.589);
+  font-family: "anuphan";
+}
+
+a {
+  text-decoration: none;
+}
+
+.gloder {
+  text-align: center;
+  width: fit-content;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+#Pjsk {
+  color: #11fff3;
+}
+
+#back {
+  margin: -100px 0px 0px 20px;
+  border: 2px solid #11fff3;
+  box-shadow: 0px 0px 20px #11fff3;
+  color: white;
+}
+h1,
+#Intro {
+  margin: 30px auto 50px;
+  border: 2px solid #11fff3;
+  box-shadow: 0px 0px 20px #11fff3;
+}
+
+img {
+  display: block;
+  text-align: center;
+  margin: 100px auto;
+  width: 500px;
+  border: 2px solid #11fff3;
+  box-shadow: 0px 0px 20px #11fff3;
+}
+
+#Rbot {
+  width: 350px;
+  margin: 0px 0px 0px 220px;
+  border: 2px solid #00cdba;
+  box-shadow: 0px 0px 10px #00cdba;
+}
+
+#Leo {
+  width: 220px;
+  margin: 0px 0px 0px 20px;
+  border: 2px solid #4455dd;
+  box-shadow: 0px 0px 10px #4455dd;
+}
+
+#Jump {
+  width: 220px;
+  margin: 0px 0px 0px 285px;
+  border: 2px solid #6ccb20;
+  box-shadow: 0px 0px 10px #6ccb20;
+}
+
+#Jump1 {
+  width: 220px;
+  margin: -265px 0px 0px 285px;
+  border: 2px solid #6ccb20;
+  box-shadow: 0px 0px 10px #6ccb20;
+}
+
+#Bad {
+  width: 220px;
+  margin: 0px 0px 0px 545px;
+  border: 2px solid #ee1166;
+  box-shadow: 0px 0px 10px #ee1166;
+}
+
+#Bad1 {
+  width: 220px;
+  margin: -285px 0px 0px 544px;
+  border: 2px solid #ee1166;
+  box-shadow: 0px 0px 10px #ee1166;
+}
+
+#Wonder {
+  width: 220px;
+  margin: 0px 0px 0px 150px;
+  border: 2px solid #ff9900;
+  box-shadow: 0px 0px 10px #ff9900;
+}
+
+#Night {
+  width: 220px;
+  margin: 0px 0px 0px 450px;
+  border: 2px solid #884499;
+  box-shadow: 0px 0px 10px #884499;
+}
+
+#Night1 {
+  width: 220px;
+  margin: -300px 0px 0px 450px;
+  border: 2px solid #884499;
+  box-shadow: 0px 0px 10px #884499;
+}

@@ -1,0 +1,129 @@
+html {
+  background-color: black;
+  background-image: url(Images/star\ night\ dark\ sky.gif);
+}
+
+body {
+  padding: 30px;
+  margin: 50px auto;
+  width: 770px;
+  color: aliceblue;
+  border: 2px solid #accdff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 50px #accdff;
+  background-color: rgba(0, 0, 0, 0.589);
+  font-family: "anuphan";
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#Milgram:hover {
+  color: #ff0400;
+  transition: all 500ms;
+}
+
+#PJSK:hover {
+  transition: all 500ms;
+  color: #11fff3;
+}
+
+#Art:hover {
+  transition: all 500ms;
+  color: #1156ff;
+}
+
+hr {
+  border: 2px solid #accdff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #accdff;
+}
+
+h1 {
+  text-align: center;
+  margin: 5px 5px 40px 60px;
+  width: 70%;
+  border: 2px solid #accdff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #accdff;
+  padding: 10px;
+}
+
+#Milgram {
+  text-align: center;
+  width: 150px;
+  padding: 15px;
+  margin: 5px 100px -60px 104px;
+  border: 2px solid #ff0400;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #ff0400;
+  padding: 10px;
+}
+
+#PJSK {
+  text-align: center;
+  width: 200px;
+  padding: 15px;
+  margin: 75px 0px 10px 80px;
+  border: 2px solid #11fff3;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #11fff3;
+  padding: 10px;
+}
+
+#Art {
+  text-align: center;
+  width: 200px;
+  padding: 15px;
+  margin: -260px 55px 0px 0px;
+  border: 2px solid #1156ff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #1156ff;
+  padding: 10px;
+  float: right;
+}
+
+#first {
+  width: 350px;
+  display: inline-block;
+  border: 2px solid #accdff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #accdff;
+  padding: 10px;
+}
+
+#gif1 {
+  width: 300px;
+  float: right;
+  display: flex;
+  margin: 20px 0px 5px 0px;
+  border: 2px solid #accdff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #accdff;
+}
+
+#gif2 {
+  width: 400px;
+  margin: 25px 0px 0px 0px;
+  border: 2px solid #ff0400;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #ff0400;
+}
+
+#gif3 {
+  width: 400px;
+  border: 2px solid #11fff3;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #11fff3;
+}
+
+#gif4 {
+  width: 350px;
+  border: 2px solid #1156ff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #1156ff;
+  float: right;
+  margin: -600px -10px 50px 500px;
+}
