@@ -127,3 +127,8 @@ h1 {
   float: right;
   margin: -600px -10px 50px 500px;
 }
+
+h2 {
+  color: white;
+  transition: all 1s;
+}
