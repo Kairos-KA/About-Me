@@ -2,7 +2,7 @@ html {
   background-color: black;
   background-image: url(Images/milgram_0.webp);
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("Images/static-assets-upload8176056204253842331.webp");
+    url("Images/milgram_0.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }

@@ -1,6 +1,6 @@
 html {
   background-color: black;
-  background: url(Images/star\ night\ dark\ sky.gif);
+  background-image: url(Images/star\ night\ dark\ sky.gif);
 }
 
 body {
@@ -47,5 +47,4 @@ h1,
 img {
   width: 370px;
   margin: auto;
-  text-align: center;
-}
+  text-align: center;}

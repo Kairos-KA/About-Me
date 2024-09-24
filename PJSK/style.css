@@ -1,9 +1,6 @@
 html {
   background-color: black;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("Images/Project_SEKAI_COLORFUL_LIVE_1st_Link_Blu-ray_Cover.webp");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url(Images/star\ night\ dark\ sky.gif);
 }
 
 body {
@@ -62,58 +59,60 @@ img {
   box-shadow: 0px 0px 10px #00cdba;
 }
 
+
+
 #Leo {
   width: 220px;
   margin: 0px 0px 0px 20px;
-  border: 2px solid #4455dd;
-  box-shadow: 0px 0px 10px #4455dd;
+  border: 2px solid #4455DD ;
+  box-shadow: 0px 0px 10px #4455DD ;
 }
 
 #Jump {
   width: 220px;
   margin: 0px 0px 0px 285px;
-  border: 2px solid #6ccb20;
-  box-shadow: 0px 0px 10px #6ccb20;
+  border: 2px solid  #6CCB20 ;
+  box-shadow: 0px 0px 10px  #6CCB20 ;
 }
 
 #Jump1 {
   width: 220px;
   margin: -265px 0px 0px 285px;
-  border: 2px solid #6ccb20;
-  box-shadow: 0px 0px 10px #6ccb20;
+  border: 2px solid  #6CCB20 ;
+  box-shadow: 0px 0px 10px  #6CCB20 ;
 }
 
 #Bad {
   width: 220px;
   margin: 0px 0px 0px 545px;
-  border: 2px solid #ee1166;
-  box-shadow: 0px 0px 10px #ee1166;
+  border: 2px solid #EE1166;
+  box-shadow: 0px 0px 10px #EE1166;
 }
 
 #Bad1 {
   width: 220px;
   margin: -285px 0px 0px 544px;
-  border: 2px solid #ee1166;
-  box-shadow: 0px 0px 10px #ee1166;
+  border: 2px solid  #EE1166 ;
+  box-shadow: 0px 0px 10px #EE1166;
 }
 
 #Wonder {
   width: 220px;
   margin: 0px 0px 0px 150px;
-  border: 2px solid #ff9900;
-  box-shadow: 0px 0px 10px #ff9900;
+  border: 2px solid #FF9900 ;
+  box-shadow: 0px 0px 10px #FF9900 ;
 }
 
 #Night {
   width: 220px;
   margin: 0px 0px 0px 450px;
-  border: 2px solid #884499;
-  box-shadow: 0px 0px 10px #884499;
+  border: 2px solid  #884499 ;
+  box-shadow: 0px 0px 10px  #884499 ;
 }
 
 #Night1 {
   width: 220px;
   margin: -300px 0px 0px 450px;
-  border: 2px solid #884499;
-  box-shadow: 0px 0px 10px #884499;
+  border: 2px solid  #884499 ;
+  box-shadow: 0px 0px 10px  #884499 ;
 }
